@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+y1pc2JQcfUaWlJx7R9W0uqn/NKhjmKhMhHy379E5hVOD4QXT7APTLLaxjKng5cSiODz0tAkqXOHsDmQsSnHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Makis\\source\\repos\\AIOS_DISABLE_LOGIN_WHITELIST\\AIOS_DISABLE_LOGIN_WHITELIST\\AIOS_DISABLE_LOGIN_WHITELIST.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Makis\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Makis\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Makis\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512",
+    "C:\\Users\\Makis\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.29\\microsoft.netcore.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\Makis\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.29\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.29.nupkg.sha512",
+    "C:\\Users\\Makis\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.29\\microsoft.aspnetcore.app.runtime.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

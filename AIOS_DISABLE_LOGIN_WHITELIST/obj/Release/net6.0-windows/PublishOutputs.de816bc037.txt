@@ -1,0 +1,6 @@
+C:\Users\Makis\source\repos\AIOS_DISABLE_LOGIN_WHITELIST\AIOS_DISABLE_LOGIN_WHITELIST\bin\Release\net6.0-windows\publish\AIOS_DISABLE_LOGIN_WHITELIST.exe
+C:\Users\Makis\source\repos\AIOS_DISABLE_LOGIN_WHITELIST\AIOS_DISABLE_LOGIN_WHITELIST\bin\Release\net6.0-windows\publish\AIOS_DISABLE_LOGIN_WHITELIST.dll
+C:\Users\Makis\source\repos\AIOS_DISABLE_LOGIN_WHITELIST\AIOS_DISABLE_LOGIN_WHITELIST\bin\Release\net6.0-windows\publish\AIOS_DISABLE_LOGIN_WHITELIST.deps.json
+C:\Users\Makis\source\repos\AIOS_DISABLE_LOGIN_WHITELIST\AIOS_DISABLE_LOGIN_WHITELIST\bin\Release\net6.0-windows\publish\AIOS_DISABLE_LOGIN_WHITELIST.runtimeconfig.json
+C:\Users\Makis\source\repos\AIOS_DISABLE_LOGIN_WHITELIST\AIOS_DISABLE_LOGIN_WHITELIST\bin\Release\net6.0-windows\publish\AIOS_DISABLE_LOGIN_WHITELIST.pdb
+C:\Users\Makis\source\repos\AIOS_DISABLE_LOGIN_WHITELIST\AIOS_DISABLE_LOGIN_WHITELIST\bin\Release\net6.0-windows\publish\Renci.SshNet.dll

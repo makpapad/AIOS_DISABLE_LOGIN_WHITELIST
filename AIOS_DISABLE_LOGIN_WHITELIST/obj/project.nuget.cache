@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOwk9G5qxrw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User1\\source\\repos\\AIOS_DISABLE_LOGIN_WHITELIST\\AIOS_DISABLE_LOGIN_WHITELIST\\AIOS_DISABLE_LOGIN_WHITELIST.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User1\\.nuget\\packages\\ssh.net\\2024.1.0\\ssh.net.2024.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
