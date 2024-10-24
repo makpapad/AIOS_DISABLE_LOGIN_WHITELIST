@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("AIOS_DISABLE_LOGIN_WHITELIST"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Release"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+442f02ce4731a85f4c627337a5d22494c258cff5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b66ec3dd204880040b6c1127a6a139f6ac686c5"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("AIOS_DISABLE_LOGIN_WHITELIST"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("AIOS_DISABLE_LOGIN_WHITELIST"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
