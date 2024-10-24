@@ -6,19 +6,12 @@
     <StartupObject>Sub Main</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
+    <Platforms>AnyCPU;x86</Platforms>
+    <ImportedNamespaces>Renci.SshNet=False,System.Data=False,System.Drawing=False,System.Windows.Forms=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,AIOS_DISABLE_LOGIN_WHITELIST=True</ImportedNamespaces>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="settings.enc" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="settings.enc">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-
-  <ItemGroup>
+    <Import Include="Renci.SshNet" />
     <Import Include="System.Data" />
     <Import Include="System.Drawing" />
     <Import Include="System.Windows.Forms" />

@@ -1,0 +1,4 @@
+<Project DefaultTargets="UpdateVersion" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <!-- Αυτο-αύξηση των εκδόσεων -->
+        <AssemblyMajor>1</Assembly>
